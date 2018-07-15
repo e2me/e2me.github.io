@@ -1,6 +1,6 @@
 ---
 layout: home
-comments: true
+comments: false
 ---
 
 안녕하세요 e2me 입니다. 
